@@ -149,9 +149,7 @@ body.main-bg{
 <!-- INTRO -->
 <div id="intro">
     <div id="introText">
-        In a world full of chaos, trauma calls, and night shifts...<br><br>
-        There was one constant vital sign in my life...<br><br>
-        Ayaa ♥️
+        Ayaa ♥️, in a world of fleeting moments, loving you feels like the only thing that will last forever...<br><br>...<br><br>
     </div>
 </div>
 
